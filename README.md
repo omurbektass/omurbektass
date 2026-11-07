@@ -13,12 +13,6 @@
 
 </div>
 
----
-
-## 🇹🇷 Türkçe
-
-### Merhaba, ben Ömür! 👋
-
 ## 📊 GitHub Activity
 
 <div align="center">
