@@ -1,44 +1,68 @@
-<h1 align="center">Ömür Bektaş</h1>
-<p align="center">Technology · Game Systems · Digital Design</p>
 
-<p align="center">
-  <a href="#türkçe">Türkçe</a> · <a href="#english">English</a>
-</p>
+<div align="center">
+
+# Ömür Bektaş
+
+**Technology · Game Systems · Digital Design**
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1100&color=64748B&center=true&vCenter=true&width=580&height=45&lines=Merhaba%2C+ben+%C3%96m%C3%BCr!;Hi%2C+I'm+%C3%96m%C3%BCr!;Learning+%E2%80%A2+Creating+%E2%80%A2+Exploring" alt="Typing animation" />
+
+<br>
+
+[Türkçe](#-türkçe) · [English](#-english)
+
+</div>
 
 ---
 
-## Türkçe
+## 🇹🇷 Türkçe
 
 ### Merhaba, ben Ömür! 👋
 
-Teknoloji, oyun sistemleri ve dijital tasarımla ilgileniyorum. Yeni araçlar keşfetmeyi, denemeler yapmayı ve öğrendiklerimi projelere dönüştürmeyi seviyorum.
+Teknoloji, oyun sistemleri ve dijital tasarımla ilgileniyorum.
 
-**İlgi alanlarım**
-- Minecraft sunucuları, modlar ve oyun sistemleri
-- Dijital tasarım ve yaratıcı çalışmalar
-- Yeni teknolojiler ve proje geliştirme
+Yeni teknolojiler keşfetmeyi, farklı sistemler üzerinde çalışmayı ve öğrendiklerimi projelere dönüştürmeyi seviyorum.
 
-**Şu anda:** Yeni şeyler öğreniyor, farklı fikirleri deniyor ve projelerimi geliştiriyorum.
+**İlgi Alanlarım**
+
+- 💻 Teknoloji ve yazılım
+- 🎮 Oyunlar ve oyun sistemleri
+- ⚙️ Minecraft sunucuları ve mod sistemleri
+- 🎨 Grafik tasarım ve dijital projeler
+- 🚀 Yeni teknolojiler öğrenmek
 
 ---
 
-## English
+## 🇬🇧 English
 
 ### Hi, I'm Ömür! 👋
 
-I'm interested in technology, gaming systems, and digital design. I enjoy exploring new tools, experimenting with ideas, and turning what I learn into projects.
+I'm interested in technology, gaming systems, and digital design.
 
-**My interests**
-- Minecraft servers, mods, and game systems
-- Digital design and creative work
-- New technologies and project development
+I enjoy exploring new technologies, experimenting with different systems, and turning what I learn into creative projects.
 
-**Currently:** Learning, experimenting with new ideas, and improving my projects.
+**My Interests**
+
+- 💻 Technology and software
+- 🎮 Gaming and game systems
+- ⚙️ Minecraft servers and mod systems
+- 🎨 Graphic design and digital projects
+- 🚀 Learning new technologies
 
 ---
 
-### GitHub Activity · GitHub Etkinliği
+## 📊 GitHub Activity
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omurbektass&theme=github-compact&hide_border=true&area=false)
+<div align="center">
 
-<p align="center"><sub>Always learning. Always creating. · Her zaman öğren, her zaman üret.</sub></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omurbektass&theme=github-compact&hide_border=true&area=false" alt="GitHub activity graph" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Always learning. Always creating.</sub>
+
+</div>
